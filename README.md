@@ -1,8 +1,5 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
+
+
 # LIS545 Curation Protocol
  
 The dataset is created to address the homelessness issues in Seattle and other surrounding counties in Washington state. The data covers the annual count of homelessness across regions in Washington state from 2017 to 2020. The targeted audiences are researchers and policymakers. The data is freely available to the public and available in .csv format. 
