@@ -1,0 +1,49 @@
+Region,Year,Type,Count
+East County,2017,sheltered,660
+North County,2017,sheltered,71
+Northeast County,2017,sheltered,68
+Seattle,2017,sheltered,4392
+Southeast County,2017,sheltered,30
+Southwest County,2017,sheltered,937
+East County,2018,sheltered,636
+North County,2018,sheltered,215
+Northeast County,2018,sheltered,43
+Seattle,2018,sheltered,4000
+Southeast County,2018,sheltered,34
+Southwest County,2018,sheltered,864
+East County,2019,sheltered,569
+North County,2019,sheltered,192
+Northeast County,2019,sheltered,35
+Seattle,2019,sheltered,4239
+Southeast County,2019,sheltered,56
+Southwest County,2019,sheltered,880
+East County,2020,sheltered,586
+North County,2020,sheltered,204
+Northeast County,2020,sheltered,61
+Seattle,2020,sheltered,4428
+Southeast County,2020,sheltered,72
+Southwest County,2020,sheltered,822
+East County,2017,unsheltered,319
+North County,2017,unsheltered,53
+Northeast County,2017,unsheltered,119
+Seattle,2017,unsheltered,3857
+Southeast County,2017,unsheltered,70
+Southwest County,2017,unsheltered,1102
+East County,2018,unsheltered,393
+North County,2018,unsheltered,251
+Northeast County,2018,unsheltered,137
+Seattle,2018,unsheltered,4488
+Southeast County,2018,unsheltered,77
+Southwest County,2018,unsheltered,974
+East County,2019,unsheltered,337
+North County,2019,unsheltered,85
+Northeast County,2019,unsheltered,99
+Seattle,2019,unsheltered,3558
+Southeast County,2019,unsheltered,65
+Southwest County,2019,unsheltered,1084
+East County,2020,unsheltered,446
+North County,2020,unsheltered,56
+Northeast County,2020,unsheltered,167
+Seattle,2020,unsheltered,3738
+Southeast County,2020,unsheltered,56
+Southwest County,2020,unsheltered,1115
