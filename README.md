@@ -7,7 +7,9 @@ The dataset is created to address the homelessness issues in Seattle and other s
 •	**Potential Data Quality Issues**: The unsheltered homelessness was counted using the “point-in count” method, which uses the day/night of a specific date as an estimation of the actual homelessness situation for that year. Many factors will affect the data accuracy and make the count fluctuate, including the number of volunteers, weather conditions, funding, etc. Please be mindful of the potential data quality issues and use this data with caution. 
 
 •	**Naming Conventions**: 
+
 ⁃	No spaces or special symbols for file or variable names, except for underscores or hyphens. 
+
 ⁃	The file should be named
 “WA_homelessness_cnt_startyear_to_endyear_datatype,” where the start year is the minimum year and the end year is the maximum year in the dataset. Datatype is the type of the numeric columns, being raw or normalized. For instance, the dataset can be named “WA_homelessness_cnt_2017_to_2020_raw”. 
 
