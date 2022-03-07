@@ -33,15 +33,15 @@ The dataset is created to address the homelessness issues in Seattle and other s
 
 *Notes: 
 
-**Southwest County** (Algona, Auburn, Burien, Des Moines, Federal Way, Kent, Milton, Normandy Park, Pacific, Renton, SeaTac, Tukwila, Vashon Island)
+**Southwest County** : Algona, Auburn, Burien, Des Moines, Federal Way, Kent, Milton, Normandy Park, Pacific, Renton, SeaTac, Tukwila, Vashon Island
 
-**East County** (Beaux Arts Village, Bellevue, Clyde Hill, Hunts Point, Issaquah, Kirkland, Medina, Mercer Island, Newcastle, Redmond Sammamish, Yarrow Point)
+**East County** : Beaux Arts Village, Bellevue, Clyde Hill, Hunts Point, Issaquah, Kirkland, Medina, Mercer Island, Newcastle, Redmond Sammamish, Yarrow Point
 
-**Northeast County** (Carnation, Duvall, North Bend, Skykomish, Snoqualmie)
+**Northeast County** : Carnation, Duvall, North Bend, Skykomish, Snoqualmie
 
-**North County** (Bothell, Kenmore, Lake Forest Park,  Shoreline,  Woodinville)
+**North County** : Bothell, Kenmore, Lake Forest Park,  Shoreline,  Woodinville
 
-**Southeast County** (Black Diamond, Covington,  Enumclaw, Maple Valley)
+**Southeast County** : Black Diamond, Covington,  Enumclaw, Maple Valley
 
 **Seattle**
  
